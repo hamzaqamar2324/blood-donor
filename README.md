@@ -1,2 +1,23 @@
-# blood-donor
-A full-stack Blood Donor Management Website built with PHP, Laravel, Node.js, MySQL, and real-time communication features using WebSocket and WebRTC. The platform allows donor registration, profile management, real-time private chat, and video/voice calling, with an admin panel for donor and system management.
+# Blood Donor Management System
+
+A web-based platform for donor registration, profile management, and real-time chat system with private messaging and real-time calling.
+
+## Features
+- User registration and profile management
+- Admin panel for managing donors
+- Real-time chat using WebSocket
+- Real-time calling with WebRTC
+
+## Technologies Used
+- PHP
+- MySQL
+- WebSocket
+- WebRTC
+- Node.js
+- Tailwind CSS
+
+## How to Use
+Clone this repository and set up with a local server (XAMPP/WAMP/Laragon). Database dump is included.
+
+## Author
+Hamza Qamar
